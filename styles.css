@@ -1,0 +1,16 @@
+/* Universal styles */
+html {
+  font-size: 16px;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+/* nav bar */
+#nav-container {
+  border-bottom: 3px black;
+  height: 60px;
+  width: 100%;
+  background-color: rgb(112, 105, 105)
+}
