@@ -1,16 +1,16 @@
 /* Universal styles */
 html {
   font-size: 16px;
-}
-
-body {
   box-sizing: border-box;
 }
 
+body {
+  margin: 0;
+}
+
 /* nav bar */
-#nav-container {
-  border-bottom: 3px black;
+nav {
+  border-bottom: 1px solid black;
   height: 60px;
   width: 100%;
-  background-color: rgb(112, 105, 105)
 }
