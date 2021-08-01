@@ -11,6 +11,7 @@ body {
 /* nav bar */
 nav {
   border-bottom: 1px solid black;
+  border-top: 1px solid black;
   height: 60px;
   width: 100%;
 }
